@@ -102,7 +102,7 @@ namespace Linst_Lern
                         Environment.Exit(0);
                         break;
                     default:
-                        Console.WriteLine("Ошибка.");
+                        Console.WriteLine("Error. Print number for menu.");
                         break;
                 }    }  while(true);
         }
